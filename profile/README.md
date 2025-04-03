@@ -2,7 +2,7 @@
 
 ![](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg) ![](https://forthebadge.com/images/badges/it-works-no-idea-why.svg) ![](https://forthebadge.com/images/badges/approved-by-my-mom.svg) ![](https://forthebadge.com/images/badges/code-written-by-chatgpt-ai-ftw.svg)
 
-An organization focused on creating **C# desktop apps** (and possibly mobile in the future) usually **powered by AI**. The badges above basically summarize this organization, there's only one developer and uhh don't expect too much from me.
+An organization focused on creating **C# desktop apps** (and possibly mobile in the future) usually **powered by AI**. The badges above basically summarize this organization, there's only one developer and uhh don't expect too much from me I just do this for fun.
 <br>
 <br>
 
