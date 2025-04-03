@@ -10,7 +10,7 @@ Our code is often **engineered by AI** and refined by a human ([voidZiAD](https:
 
 > **✨ Current projects:**
 > 
-> - **[Open-Source]** [obfuscript](https://github.com/mixrifyAI/obfuscript) (WinForms-based C# Encryption & Code protection project)
+> - **[Open-Source]** [obfuscript](https://github.com/mixrifyAI/obfuscript) (Powerful .NET Obfuscation)
 
 > **🔃 Possible upcoming projects:**
 >
