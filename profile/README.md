@@ -8,11 +8,11 @@ An organization focused on creating **C# desktop apps** (and possibly mobile in 
 
 Our code is often **engineered by AI** and refined by a human ([voidZiAD](https://github.com/voidZiAD)).
 
-> ✨ Current projects:
+> **✨ Current projects:**
 > 
 > - **[Open-Source]** [obfuscript](https://github.com/mixrifyAI/Obfuscript) (WinForms-based C# Encryption & Code protection project)
 
-> 🔃 Possible upcoming projects:
+> **🔃 Possible upcoming projects:**
 >
 > - **[Open-Source]** Crosshair Customizer (For games that do not already offer custom crosshairs, or possibly other unrelated reasons)
 > - **[Open-Source]** AI VPN (A VPN that searches for online free servers to use that it can connect to using WireGuard/IKEv2/Other)
